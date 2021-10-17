@@ -42,7 +42,7 @@
     font-family: 'Roboto',sans-serif;
    }
 
-   @media(min-width: 375px){
+   @media(max-width: 375px){
     .banner-text {
         padding-top: 20rem;
     } 
@@ -134,7 +134,7 @@ nav ul li a:hover
     background: rgba(255, 0, 0, 0.438);
 }
 
-@media(min-width: 375px) {
+@media(max-width: 375px) {
     nav .logo img {
         height: 6rem;  
         left: 37%;     
@@ -266,7 +266,7 @@ nav.red ul li a {
     background-color: #ba3419;
 }
 
-@media(min-width: 375px){
+@media(max-width: 375px){
   .features {
     flex-basis: 100%;
 }  
@@ -425,7 +425,7 @@ nav.red ul li a {
     width: 100%;
 }
 
-@media(min-width: 375px) {
+@media(max-width: 375px) {
 #menu {
     padding: 15rem 0;
     background-color: rgb(0, 0, 0);
@@ -559,7 +559,7 @@ hr {
 
 
 
-@media(min-width: 375px){
+@media(max-width: 375px){
     .single-service img {
         width: 20rem;
         height: 13rem;
